@@ -42,9 +42,7 @@ $$\rm \color{red}{Warning:}$$
 - $\rm Memory \; Limit:$ $128 \rm MB$
 
 ## B 胡策的
-## C 胡策的最大图
-
-
+## C 胡策的
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzg3MzQ4OF19
+eyJoaXN0b3J5IjpbMTU1MDI3MDgxXX0=
 -->
