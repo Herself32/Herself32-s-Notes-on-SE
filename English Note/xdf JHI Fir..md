@@ -18,8 +18,13 @@
 - $\rm A: \text{ }$sb. be doing ... when sb did ...
 - $\rm B: \text{ }$while sb be doing ... ,sb did
 - $\rm A == B$
-- 
+- be about to do ... when
+- had just done ... when ...
+
+> He was about to leave when the teacher asked him to sit down.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzY5MDYzNl19
+eyJoaXN0b3J5IjpbLTE3MjU4MTQ3NzFdfQ==
 -->
