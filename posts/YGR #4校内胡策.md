@@ -41,8 +41,9 @@ $$\rm \color{red}{Warning:}$$
 - $\rm Time \; Limit:$ $1000ms$
 - $\rm Memory \; Limit:$ $128 \rm MB$
 
-## B 胡策的
-## C 胡策的
+## B 胡策的足球赛
+
+## C 胡策的矩阵树
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDI3MDgxXX0=
+eyJoaXN0b3J5IjpbMjMzMjEzNTEzXX0=
 -->
