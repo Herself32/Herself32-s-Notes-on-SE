@@ -1,5 +1,14 @@
-# YGR #4 校内胡策
-## A 胡策的连通块
+# LYOI2019 AR#1 - div1
+## A 胡策的足球赛
+
+### Description
+在 OI 界，有一个无人不知无人不晓，OI 水平前无古人后无来者的胡策，江湖人称一眼秒题胡大爷！
+
+
+
+
+## B 胡策的联通块
+
 ### Description
 在 OI 界，有一个无人不知无人不晓，OI 水平前无古人后无来者的胡策，江湖人称一眼秒题胡大爷！
 
@@ -9,7 +18,7 @@
 
 请帮助胡策求出这个贡献.
 
-$$\rm \color{red}{Warning:}$$
+$$\rm \color{black}{WARNING:}$$
 1. 在本题中, $1$个点也可以被视为一个连通块.
 2. 两个连通块$u = (V_1,E_1), v = (V_2,E_2)$被定义为**不同的**, 当且仅当$\exist k \in V_1$且$k \not \in V_2$
 
@@ -43,14 +52,8 @@ $$\rm \color{red}{Warning:}$$
 - $\rm Time \; Limit:$ $1000ms$
 - $\rm Memory \; Limit:$ $128 \rm MB$
 
-## B 胡策的足球赛
-
-在 OI 界，有一个无人不知无人不晓，OI 水平前无古人后无来者的胡策，江湖人称一眼秒题胡大爷！
-
 ## C 胡策的矩阵树
 
-
-在 OI 界，有一个无人不知无人不晓，OI 水平前无古人后无来者的胡策，江湖人称一眼秒题胡大爷！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDYzOTc2Nl19
+eyJoaXN0b3J5IjpbLTgwNzg5NjIzOV19
 -->
